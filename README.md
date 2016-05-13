@@ -1,9 +1,9 @@
 # hello-world Javascript example 1
 <script>
 
-function hello ( ) {
+function hello2 ( ) {
   
-    alert ("hello")
+    alert ("hello another JS function")
     
 }
 
