@@ -1,3 +1,11 @@
-# hello-world
-hello-world repository example
-This is an added line
+# hello-world Javascript example 1
+<script>
+
+function hello ( ) {
+  
+    alert ("hello)
+    
+}
+
+
+</script>
